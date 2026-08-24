@@ -1,0 +1,6 @@
+{
+  "name": "passop-backend",
+  "description": "PassOP Password Manager Backend",
+  "buildCommand": "npm install",
+  "startCommand": "npm start"
+}
